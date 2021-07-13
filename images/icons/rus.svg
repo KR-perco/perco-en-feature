@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="29" height="21" viewBox="0 0 29 21" enable-background="new 0 0 29 21">
+	<g id="rus">
+		<animateTransform attributeType="XML" attributeName="transform" type="translate" from="0,0" to="6,6" begin="0s" dur="14s" values="0,0;-6,6;0,0;0,0" keySplines="
+	            0.6 0.1 0.6 0.1;
+	            0.1 0.6 0.1 1;
+	            0.1 0.8 0.1 1" keyTimes="
+	            0;0.06;0.1;1" calcMode="spline" repeatCount="indefinite"></animateTransform>
+		<polygon id="polygon5" points="0,0 29,0 25,7 0,7 " fill="#ffffff"/>
+		<polygon id="polygon7" points="0,7 25,7 23,10 24.988,14 0,14 " fill="#10519d"/>
+		<polygon id="polygon9" points="0,14 25,14 29,21 0,21 " fill="#c92027"/>
+	</g>
+</svg>

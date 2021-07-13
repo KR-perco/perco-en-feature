@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Слой_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 37.3 58.7" style="enable-background:new 0 0 37.3 58.7;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#214287;}
+	.st1{fill:#FFFFFF;stroke:#294388;stroke-miterlimit:10;}
+	.st2{fill:#FFFFFF;}
+	.st3{fill:none;stroke:#294388;stroke-miterlimit:10;}
+</style>
+<path class="st0" d="M35.2,0c1.2,0,2.2,1,2.2,2.2v54.4c0,1.2-1,2.2-2.2,2.2h-33c-1.2,0-2.2-1-2.2-2.2V2.2C0,1,1,0,2.2,0H35.2"/>
+<g>
+	<rect x="3.1" y="3.2" class="st1" width="31.2" height="47.9"/>
+	<circle class="st2" cx="18.7" cy="55" r="1.5"/>
+</g>
+<g>
+	<g>
+		<rect x="9.6" y="21.7" class="st1" width="18.1" height="10.7"/>
+		<polyline class="st3" points="9.6,21.7 18.7,28.6 27.7,21.7 		"/>
+		<g>
+			<line class="st3" x1="9.6" y1="32.4" x2="15.8" y2="26.5"/>
+			<line class="st3" x1="27.7" y1="32.4" x2="21.4" y2="26.5"/>
+		</g>
+	</g>
+</g>
+</svg>

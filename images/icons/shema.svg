@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-2 -2 50 50" enable-background="new -2 -2 50 50" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="SVGID_6_" gradientUnits="userSpaceOnUse" y1="36.03" x2="0" y2="9.567" xlink:href="#SVGID_1_"/>
+  <linearGradient id="SVGID_3_" gradientUnits="userSpaceOnUse" y1="26.02" x2="0" y2="8.716" xlink:href="#SVGID_1_"/>
+  <linearGradient id="SVGID_7_" gradientUnits="userSpaceOnUse" y1="11.455" x2="0" y2="3.77" xlink:href="#SVGID_1_"/>
+  <linearGradient id="SVGID_5_" gradientUnits="userSpaceOnUse" x1="31.403" y1="44.997" x2="1.46" y2="32.977" xlink:href="#SVGID_1_"/>
+  <linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="45.893" y1="11.992" x2="1.714" y2="33.713" xlink:href="#SVGID_1_"/>
+  <linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" y1="1.01" x2="0" y2="33.27">
+   <stop stop-color="#0e3e84"/>
+   <stop offset="1" stop-color="#3f8ded"/>
+  </linearGradient>
+  <linearGradient id="SVGID_4_" gradientUnits="userSpaceOnUse" y1="36.03" x2="0" y2="4.679" xlink:href="#SVGID_1_"/>
+ </defs>
+ <path fill="url(#SVGID_1_)" d="m1.128 6.649v26.621h.919v-26.621h.863l-1.323-5.639-1.322 5.639z"/>
+ <path fill="url(#SVGID_2_)" d="m40.633 14.07l-39.33 18.805.406.827 39.33-18.81.38.774 4.473-3.675-5.643 1.301z"/>
+ <path fill="url(#SVGID_3_)" d="m28.18 10.936l5.92-2.219v17.303l-5.92-2.323z"/>
+ <path fill="#fff" d="m34.414 26.482l-6.555-2.568v-13.199l6.555-2.458v18.225m-5.918-3l5.279 2.068v-16.371l-5.279 1.979v12.324"/>
+ <path fill="url(#SVGID_4_)" d="m37.18 24.298l-3.08 1.722v-17.303l-13.258 4.962v20.04l-3.792 2.314v-24.576l20.13-6.775z"/>
+ <path fill="url(#SVGID_5_)" d="m26.342 42.469l-24.711-9.916-.342.853 24.71 9.924-.321.8 5.724.87-4.738-3.331z"/>
+ <path fill="url(#SVGID_6_)" d="m17.05 36.03l-8.05-3.231v-23.23l8.05 1.887z"/>
+ <path fill="#fff" d="m17.372 36.499l-8.694-3.483v-23.85l8.694 2.036v25.297m-8.06-3.916l7.42 2.976v-23.852l-7.42-1.738v22.614"/>
+ <path fill="url(#SVGID_7_)" d="m31.01 3.769l6.17.91-20.13 6.775-8.05-1.887z"/>
+ <path fill="#fff" d="m17.07 11.785l-9.392-2.199 23.314-6.143 7.545 1.115-21.467 7.227m-6.754-2.236l6.722 1.575 18.783-6.323-4.793-.708-20.712 5.456"/>
+</svg>

@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 50" enable-background="new 0 0 50 50" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="SVGID_10_" gradientUnits="userSpaceOnUse" x1="16.5" x2="33.875" xlink:href="#SVGID_1_"/>
+  <linearGradient id="SVGID_7_" gradientUnits="userSpaceOnUse" x1="38.629" x2="48.629" xlink:href="#SVGID_1_"/>
+  <linearGradient id="SVGID_9_" gradientUnits="userSpaceOnUse" x1="14.185" x2="35.81" xlink:href="#SVGID_1_"/>
+  <linearGradient id="SVGID_8_" gradientUnits="userSpaceOnUse" x1="19.999" x2="29.999" xlink:href="#SVGID_1_"/>
+  <linearGradient id="SVGID_6_" gradientUnits="userSpaceOnUse" x1="1.458" x2="11.459" xlink:href="#SVGID_1_"/>
+  <linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" y1="21.875" x2="0" y2="27.941">
+   <stop stop-color="#0e3e84"/>
+   <stop offset="1" stop-color="#3f8ded"/>
+  </linearGradient>
+  <linearGradient id="SVGID_5_" gradientUnits="userSpaceOnUse" y1="29.18" x2="0" y2="37.04" xlink:href="#SVGID_1_"/>
+  <linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="44.25" x2="5.749" xlink:href="#SVGID_1_"/>
+  <linearGradient id="SVGID_4_" gradientUnits="userSpaceOnUse" y1="29.18" x2="0" y2="37.04" xlink:href="#SVGID_1_"/>
+  <linearGradient id="SVGID_3_" gradientUnits="userSpaceOnUse" y1="37.04" x2="0" y2="29.18" xlink:href="#SVGID_1_"/>
+ </defs>
+ <path fill="url(#SVGID_1_)" d="m24.379 21.875h1.242v6.07h-1.242z"/>
+ <path fill="url(#SVGID_2_)" d="m5.75 27.941h38.5v1.242h-38.5z"/>
+ <path fill="url(#SVGID_3_)" d="m5.75 29.18h1.242v7.858h-1.242z"/>
+ <path fill="url(#SVGID_4_)" d="m43.01 29.18h1.242v7.858h-1.242z"/>
+ <path fill="url(#SVGID_5_)" d="m24.379 29.18h1.242v7.859h-1.242z"/>
+ <path fill="url(#SVGID_6_)" d="m1.458 37.04h10v9.5h-10z"/>
+ <path fill="url(#SVGID_7_)" d="m38.629 37.04h10v9.5h-10z"/>
+ <path fill="url(#SVGID_8_)" d="m19.999 37.04h10v9.5h-10z"/>
+ <path fill="url(#SVGID_9_)" d="m35.811 16.45c0 .718-.582 1.3-1.3 1.3h-19.03c-.718 0-1.3-.582-1.3-1.3v-12.4c0-.718.582-1.3 1.3-1.3h19.02c.718 0 1.3.582 1.3 1.3v12.4z"/>
+ <path fill="#fff" d="m34.39 14.92c0 .577-.505 1.044-1.129 1.044h-16.525c-.624 0-1.129-.468-1.129-1.044v-9.965c0-.577.505-1.044 1.129-1.044h16.524c.624 0 1.129.468 1.129 1.044v9.965"/>
+ <path fill="url(#SVGID_10_)" d="m33.875 19.688c0 .656-.531 1.188-1.188 1.188h-15c-.656 0-1.188-.532-1.188-1.188 0-.656.532-1.188 1.188-1.188h15c.657 0 1.188.532 1.188 1.188"/>
+</svg>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Слой_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 41.7 34.7" style="enable-background:new 0 0 41.7 34.7;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_1_);}
+	.st1{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_2_);}
+	.st2{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;stroke:url(#SVGID_3_);stroke-miterlimit:10;}
+	.st3{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_4_);}
+</style>
+<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="0.7553" y1="23.8749" x2="10.8085" y2="23.8749" gradientTransform="matrix(1 0 0 -0.2416 0 10.4567)">
+	<stop  offset="0" style="stop-color:#12397F"/>
+	<stop  offset="1" style="stop-color:#3F8DED"/>
+</linearGradient>
+<polygon class="st0" points="10.8,7.2 0.8,7.2 0.8,2.2 10.8,3.2 "/>
+<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="0.7553" y1="20.9523" x2="10.8085" y2="20.9523">
+	<stop  offset="0" style="stop-color:#12397F"/>
+	<stop  offset="1" style="stop-color:#3F8DED"/>
+</linearGradient>
+<path class="st1" d="M0.8,7.7v26.4h10.1V7.7H0.8z M5.7,16c-1.8,0-3.3-1.5-3.3-3.3s1.5-3.3,3.3-3.3c1.8,0,3.3,1.5,3.3,3.3
+	S7.5,16,5.7,16z"/>
+<linearGradient id="SVGID_3_" gradientUnits="userSpaceOnUse" x1="41.2447" y1="12.7621" x2="4.5638" y2="12.7621">
+	<stop  offset="0" style="stop-color:#12397F"/>
+	<stop  offset="1" style="stop-color:#3F8DED"/>
+</linearGradient>
+<rect x="5.1" y="11.2" class="st2" width="35.7" height="3.2"/>
+<linearGradient id="SVGID_4_" gradientUnits="userSpaceOnUse" x1="3.2181" y1="12.6823" x2="8.2287" y2="12.6823">
+	<stop  offset="0" style="stop-color:#12397F"/>
+	<stop  offset="1" style="stop-color:#3F8DED"/>
+</linearGradient>
+<circle class="st3" cx="5.7" cy="12.7" r="2.5"/>
+</svg>
