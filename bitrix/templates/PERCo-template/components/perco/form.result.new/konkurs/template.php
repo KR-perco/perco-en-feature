@@ -2,7 +2,7 @@
 <?
 if(!defined("B_PROLOG_INCLUDED") || B_PROLOG_INCLUDED!==true)die();
 ?>
-<? 
+<?
 if ($arResult["isFormErrors"] == "Y")
 	echo $arResult["FORM_ERRORS_TEXT"];
 
@@ -30,7 +30,7 @@ if ($arResult["isFormNote"] != "Y")
 			echo $arQuestion["CAPTION"];
 			if ($arQuestion["REQUIRED"] == "Y")
 				echo $arResult["REQUIRED_SIGN"];
-			echo $arQuestion["IS_INPUT_CAPTION_IMAGE"] == "Y" ? "<br />".$arQuestion["IMAGE"]["HTML_CODE"] : "";
+			echo $arQuestion["IS_INPUT_CAPTION_IMAGE"] == "Y" ? " ".$arQuestion["IMAGE"]["HTML_CODE"] : "";
 ?>
 	</div>
 	<div><?=$arQuestion["HTML_CODE"];?></div>

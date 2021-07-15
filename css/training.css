@@ -281,3 +281,67 @@ form[name="TRAINING_REGISTER"] .notetext {
 .fancybox__content>.carousel__button.is-close {
     top: -55px;
 }
+
+
+/* // For timer */
+
+.timer-body {
+    text-align: center;
+    background: transparent;
+    font-family: sans-serif;
+    font-weight: 100;
+}
+
+.timer-visible {
+    display: block;
+}
+
+.timer-hidden {
+    display: none;
+}
+
+.countdown-title {
+    color: #345ca7;
+    font-weight: 100;
+    font-size: 40px;
+    margin: 40px 0px 20px;
+}
+
+.countdown {
+    font-family: sans-serif;
+    color: #345ca7;
+    display: inline-block;
+    font-weight: 100;
+    text-align: center;
+    font-size: 30px;
+}
+
+.countdown-number {
+    padding: 10px;
+    border-radius: 3px;
+    background: transparent;
+    display: inline-block;
+}
+
+.countdown-time {
+    padding: 15px;
+    border-radius: 3px;
+    background: transparent;
+    display: inline-block;
+}
+
+.countdown-text {
+    display: block;
+    padding-top: 5px;
+    font-size: 16px;
+}
+
+.deadline-message {
+    display: none;
+    font-size: 24px;
+    font-style: italic;
+}
+
+.hide {
+    display: none;
+}

@@ -910,19 +910,28 @@ function sendReminderMailPercoNewProducts()
 	return 'sendReminderMailPercoNewProducts();';
 }
 
+
+
+function console_log($data)
+{
+	echo '<script>';
+	echo 'console.log(' . json_encode($data) . ')';
+	echo '</script>';
+}
+
+
 // Форма регистрации на вебинар -> событие отправки уведомления на почту об успешной регистрации
 // event "training_register"
 AddEventHandler('form', 'onAfterResultAdd', array("sendMailSeminarRegisterSuccess", "onAfterResultAddHandler"));
 
 class sendMailSeminarRegisterSuccess
-{
-
+{ 
 	function onAfterResultAddHandler($WEB_FORM_ID, $RESULT_ID)
 	{
 
-		console_log("тест");
+		console_log("test hook");
 		if ($WEB_FORM_ID == 67) {
-			console_log("Хук сработал");
+			console_log("hook done");
 			console_log($RESULT_ID);
 			// $arAnswer = CFormResult::GetDataByID($RESULT_ID, array("email", "surname", "name", "company", "country", "seminar"), $arResult, $arAnswer2);
 			// $email = $arAnswer['email']['0']['USER_TEXT'];
@@ -932,14 +941,9 @@ class sendMailSeminarRegisterSuccess
 			// $country = $arAnswer['country']['0']['USER_TEXT'];
 			// $seminar = $arAnswer['seminar']['0']['USER_TEXT'];
 			// $arSend = array("EMAIL" => $email, "surname" => $surname, "FIO" => $name, "company" => $company, "country" => $country, "seminar" => $seminar);
+			
+			// CEvent::Send("FORM_FILLING_REGISTRACIYA_SPECIALISTA", "s1", $arEventFields);
 			// CEvent::Send('FORM_FILLING_ASPRO_CALLBACK_s1', SITE_ID, $arSend);
 		}
 	}
-}
-
-function console_log($data)
-{
-	echo '<script>';
-	echo 'console.log(' . json_encode($data) . ')';
-	echo '</script>';
 }

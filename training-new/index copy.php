@@ -5,7 +5,7 @@ $APPLICATION->SetPageProperty("description", "");
 $APPLICATION->SetPageProperty("keywords", "");
 $APPLICATION->SetTitle("Training");
 $APPLICATION->SetAdditionalCSS("/css/training.css");
-$APPLICATION->AddHeadScript("/scripts/pages/training.js");  
+$APPLICATION->AddHeadScript('/scripts/training-test.js');
 ?>
 <script>
 seminars = {};
@@ -37,6 +37,7 @@ seminars = {};
 					false,
 					['ID', 'IBLOCK_ID', 'CODE', 'ACTIVE_FROM', 'ACTIVE_TO']
 				);
+				console_log($rsSeminar);
 				if ($arSeminar = $rsSeminar->GetNextElement()) {
 					$arSeminarFields = $arSeminar->GetFields();
 					$arSeminarProps = $arSeminar->GetProperties();

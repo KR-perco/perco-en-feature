@@ -1,8 +1,16 @@
-<p><?=GetMessage("REQUIRED_FIELDS_SPACE");?></p>
+
 <?
 if(!defined("B_PROLOG_INCLUDED") || B_PROLOG_INCLUDED!==true)die();
 ?>
 <? 
+console_log($_GET["formresult"] == "addok"); 
+
+if ($_GET["formresult"] == "addok") {
+	echo "asdasd";
+} else { ?>
+		<p><?=GetMessage("REQUIRED_FIELDS_SPACE");?></p>
+<? }
+console_log($_GET["formresult"]); 
 if ($arResult["isFormErrors"] == "Y")
 	echo $arResult["FORM_ERRORS_TEXT"];
 
@@ -20,6 +28,7 @@ if ($arResult["isFormNote"] != "Y")
 		{
 ?>
 <div class="form_row">
+	<div><?=$arQuestion["HTML_CODE"];?></div>
 	<div>
 <?
 			if (is_array($arResult["FORM_ERRORS"]) && array_key_exists($FIELD_SID, $arResult['FORM_ERRORS']))
@@ -33,7 +42,6 @@ if ($arResult["isFormNote"] != "Y")
 			echo $arQuestion["IS_INPUT_CAPTION_IMAGE"] == "Y" ? "<br />".$arQuestion["IMAGE"]["HTML_CODE"] : "";
 ?>
 	</div>
-	<div><?=$arQuestion["HTML_CODE"];?></div>
 </div>
 <?
 		}
